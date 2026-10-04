@@ -1,0 +1,10 @@
+I’m interested in exploring backend software developer opportunities at ABN AMRO. Coming from Bank of New York (BNY), I have 
+hands-on experience delivering high-scale financial software, low-latency pipelines, and large-scale data migrations in 
+critical production environments.
+
+I admire ABN AMRO’s collaborative culture and commitment to modern high-performance architecture. With strong problem-solving 
+skills (Codeforces Expert) and production FinTech experience, I’d love to connect and learn more about open roles on your 
+engineering teams.
+
+Best Regards, 
+Ruhang

@@ -1,17 +1,10 @@
 # Fdb version 4
-["biber Ruhang_Resume"] 0 "Ruhang_Resume.bcf" "Ruhang_Resume.bbl" "Ruhang_Resume" 1790791170.39423 0
-  "Publications.bib" 0 -1 0 ""
-  "Ruhang_Resume.bcf" 0 -1 0 "xelatex"
-  (generated)
-  "Ruhang_Resume.bbl"
-  "Ruhang_Resume.blg"
-  (rewritten before read)
-["xdvipdfmx"] 1790791170.10023 "Ruhang_Resume.xdv" "Ruhang_Resume.pdf" "Ruhang_Resume" 1790791170.39575 0
-  "Ruhang_Resume.xdv" 1790791169.89277 50596 3685a9aabd905de2ce1e4706b6996331 "xelatex"
+["xdvipdfmx"] 1790791159.03834 "Ruhang_Resume.xdv" "Ruhang_Resume.pdf" "Ruhang_Resume" 1790791159.38696 0
+  "Ruhang_Resume.xdv" 1790791158.97307 51676 97d973ca0850ad50012df4dbc664d348 "xelatex"
   (generated)
   "Ruhang_Resume.pdf"
   (rewritten before read)
-["xelatex"] 1790791167.39182 "Ruhang_Resume.tex" "Ruhang_Resume.xdv" "Ruhang_Resume" 1790791170.39436 0
+["xelatex"] 1790791156.90898 "Ruhang_Resume.tex" "Ruhang_Resume.xdv" "Ruhang_Resume" 1790791159.38552 0
   "/etc/texmf/web2c/texmf.cnf" 1780204942.17614 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -30,29 +23,15 @@
   "/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty" 1576015897 19007 15924f7228aca6c6d184b115f4baa231 ""
   "/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty" 1593379760 20089 80423eac55aa175305d35b49e04fe23b ""
   "/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty" 1575152242 21514 b7557edcee22835ef6b03ede1802dad4 ""
-  "/usr/share/texlive/texmf-dist/tex/generic/unicode-data/UnicodeData.txt" 1758919076 2198209 959cb19fcda0240caef8c02953e3d771 ""
   "/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty" 1576624663 7008 f92eaa0a3872ed622bbf538217cd2ab7 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/accsupp/accsupp-dvipdfm.def" 1575674629 1636 f8f3033c6d25a728de00168dc1640e5a ""
+  "/usr/share/texlive/texmf-dist/tex/latex/accsupp/accsupp.sty" 1575674629 7963 f056b0b27ff64cd19ecfd83997f4be62 ""
   "/usr/share/texlive/texmf-dist/tex/latex/anyfontsize/anyfontsize.sty" 1195838950 3901 468c107ba2ff895578a5a95fe5d4bdbe ""
   "/usr/share/texlive/texmf-dist/tex/latex/base/article.cls" 1748806692 20144 b966087dda3b194755eb460d32e2ef75 ""
   "/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty" 1761946296 5275 6f9d359641b36842524cdb97716ab75f ""
-  "/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty" 1748806692 5525 1593ca62a2554dd7423fc8a4e5a82125 ""
   "/usr/share/texlive/texmf-dist/tex/latex/base/latexsym.sty" 1738182759 2853 45a98f589f86476fadff19a8edda5ea9 ""
   "/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo" 1748806692 8448 686612a86f0e04f41ea577f5ec7e83d8 ""
   "/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd" 1738182759 2233 b5d3114ec3e0616e658a8e7b74e810f1 ""
-  "/usr/share/texlive/texmf-dist/tex/latex/biblatex-nature/nature.bbx" 1609365076 16912 080cdf4c5adf01f53b27b3137d2587e3 ""
-  "/usr/share/texlive/texmf-dist/tex/latex/biblatex-nature/nature.cbx" 1609365076 1420 69f291f7e52c78a6947626225382d286 ""
-  "/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx" 1342308459 92 7cdbb04a1e32fba0fbb91b6e6d123497 ""
-  "/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx" 1609451401 1818 9ed166ac0a9204a8ebe450ca09db5dde ""
-  "/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx" 1609451401 25680 409c3f3d570418bc545e8065bebd0688 ""
-  "/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg" 1342308459 69 249fa6df04d948e51b6d5c67bea30c42 ""
-  "/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def" 1752177141 96838 ffbc2c4ed45b0b76660254a85df40e90 ""
-  "/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty" 1752177141 537439 2a9e171c3538c29f9ba74ff3cff6f014 ""
-  "/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty" 1711143581 9961 107fdb78f652fccae7bce0d23bdc19cd ""
-  "/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def" 1643926307 13919 5426dbe90e723f089052b4e908b56ef9 ""
-  "/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def" 1711143581 32761 18d14e3b502c120f79b2184de4e21d14 ""
-  "/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-unicode.def" 1752177141 3826 b1b1ddae2ee92ba165499a80e7294313 ""
-  "/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx" 1752177141 10471 d3365bfc5d9cef61d7f71b547790fc66 ""
-  "/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx" 1711143581 40021 daa5a82ed0967f3ac4b77cb8384cac55 ""
   "/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.cfg" 1429144587 7068 06f8d141725d114847527a66439066b6 ""
   "/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.def" 1712263026 22135 0975a49eeaed232aa861e9425ffb2e7c ""
   "/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.sty" 1712263026 62767 e79d6d7a989e7da62dcf3d0a65c1faee ""
@@ -89,8 +68,6 @@
   "/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty" 1769028462 6558 45786cbbf5684a09ee65aa45a7b367e0 ""
   "/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty" 1761248321 4674 ff006c14a0adf55e7318570f962bcbbb ""
   "/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty" 1761248321 10176 c2fc1c663b3f3899ddac6e6ed3fb1d7e ""
-  "/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def" 1284153563 1620 fb1c32b818f2058eca187e5c41dfae77 ""
-  "/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty" 1284153563 6187 b27afc771af565d3a9ff1ca7d16d0d46 ""
   "/usr/share/texlive/texmf-dist/tex/latex/marvosym/marvosym.sty" 1333989323 9393 ceaf2ea8eb2c81fdb168323fc5fffc89 ""
   "/usr/share/texlive/texmf-dist/tex/latex/moresize/moresize.sty" 1137110375 2690 ff20575f4d1777f515b27161a60eef01 ""
   "/usr/share/texlive/texmf-dist/tex/latex/preprint/fullpage.sty" 1137110595 2789 05b418f78b224ec872f5b11081138605 ""
@@ -106,16 +83,12 @@
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1769369718 41603 27f93b3067076450172040dcd57ca8b3 ""
   "/usr/share/texmf/web2c/texmf.cnf" 1769369718 41603 27f93b3067076450172040dcd57ca8b3 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1780205114 5948937 eebf09b29fcae0873deb293dd48132f3 ""
-  "Ruhang_Resume.aux" 1790791169.88918 907 43fb56df61d16db8b36b2836b5374c12 "xelatex"
-  "Ruhang_Resume.bbl" 1784231341.14798 0 d41d8cd98f00b204e9800998ecf8427e "biber Ruhang_Resume"
-  "Ruhang_Resume.out" 1790791169.88955 668 29c6221f9bd406f0296368f439632dd3 "xelatex"
-  "Ruhang_Resume.run.xml" 1790791169.89277 2506 160c94ed78d30272a1a990b599f26737 "xelatex"
-  "Ruhang_Resume.tex" 1790791154.50643 15487 e840a9faa4b650e53e2b1ca211a0b9a5 ""
+  "Ruhang_Resume.aux" 1790791158.97165 790 60ac094b3e5cdef4312cefda3a9f5a85 "xelatex"
+  "Ruhang_Resume.out" 1790791158.97165 668 29c6221f9bd406f0296368f439632dd3 "xelatex"
+  "Ruhang_Resume.tex" 1790791154.50772 15504 adf1dcdbfdd318dc7ddf5dded7d36a4a ""
   (generated)
   "Ruhang_Resume.aux"
-  "Ruhang_Resume.bcf"
   "Ruhang_Resume.log"
   "Ruhang_Resume.out"
-  "Ruhang_Resume.run.xml"
   "Ruhang_Resume.xdv"
   (rewritten before read)
